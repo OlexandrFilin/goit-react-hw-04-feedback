@@ -1,0 +1,8 @@
+.statList {
+  list-style: none;
+}
+.statTitle {
+  font-size: 20px;
+  font-style: italic;
+  margin-left: 30px;
+}

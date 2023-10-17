@@ -1,0 +1,11 @@
+.statBtn {
+  width: 60px;
+  height: 20px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+.statBtn:hover {
+  background-color: blue;
+  color: beige;
+  border-color: chocolate;
+}
