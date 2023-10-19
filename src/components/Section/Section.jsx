@@ -1,5 +1,4 @@
 import React from 'react';
-// import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
 import css from 'components/Section/Section.module.css';
 
 const Section = ({ title, children }) => {
